@@ -5,6 +5,6 @@ def cruza_uniforme():
 
 
 def main():
-	print "Tipos de Cruza"
+	pass
 
 main()
