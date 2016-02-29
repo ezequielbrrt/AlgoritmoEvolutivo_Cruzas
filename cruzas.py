@@ -3,8 +3,15 @@
 
 import numpy as  np
 
-def cruza_uniforme():
-	pass
+def cruza_uniforme(pare,madre):
+	t = len(padre)
+	
+
+def cruza_acentuada(padre,madre,d):
+	t = len(padre)
+	hijo1 = padre
+	hijo2 = madre
+	
 
 def cruza_Un_punto(padre,madre):
 	t = len(padre)
